@@ -1,16 +1,25 @@
-### Hi there 👋
+# Olá eu sou Abraão Lincon,
+> Seja bem vindo ao perfil GitHub.
 
-<!--
-**Abraones/Abraones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ---
 
-Here are some ideas to get you started:
+### Estudo desenvolvimento por adorar solucionar problemas e acelerar resultados de Negócios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou disposto a aprender o que for necessário para o Projeto acontecer, amo aprender coisas novas.
+
+Já tive a oportunidade de desenvolver usando: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+          
+Atualmente trabalho como Suporte, mas busco por uma oportunidade de trabalhar como desenvolvedor
+
+## [Abraones.com.br](Abraones.com.br)
+
+### <a href="https://instagram.com/Abraones_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:abraaobenites@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/abraão-lincon-5766aab7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+
+
+--------------------
+
+
+
+
+
+
